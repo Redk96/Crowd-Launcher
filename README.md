@@ -23,6 +23,6 @@ the creation of on-chain fund raising "vending machines" will considerably reduc
 (Private allocations will remain private or OTC) 
 
 As a consequence of removing barriers to launching a DAO there will be scams occuring. This is mainly due to the lack of gatekeepers and proffesional vetting. 
-To address this issue, I propose the use of social/community valuation and attestation collatoralised through staking by the appraiser, acompanied by account verification. Verified community appraisers and recognised VC can earn followers and reputation scores. the history of their attestation stakes and investment history verified onchain. allowing people to "copy invest". 
+To address this issue, I propose the use of community valuation and attestation (collatoralised through staking by the appraiser), acompanied by account verification. Verified community appraisers and recognised VC can earn followers and reputation scores. the history of their attestation stakes and investment history verified onchain. allowing people to "copy invest". 
 
 leaders to register onchain accounts and issue their own NFTs to people that want to be members of their community 
