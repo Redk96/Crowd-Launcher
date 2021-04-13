@@ -6,7 +6,7 @@ soon this process will be fully automated; opening capital markets to people wit
 Launching tokens over uniswap has many issues; front running, order rematching , MEV and ofcourse price slippage.the next evolution for decentralised launches has seen the rise in IDO platforms; ensuring the fair distribution of tokens at a fixed price for retail and providing a type of centralised "quality control" over launches
 
 
-Problem:
+**Problem**:
 Many of these IDO platforms share common inefficiencies..
 - fair market price for public sale are seemingly arbitrarily assigned. often projects raise far below market valuation.
 - confidential lottery draws with no verification
@@ -14,6 +14,7 @@ Many of these IDO platforms share common inefficiencies..
 - the IDOs themselves are walled off communities and not aggregated
 - automation of raises is not available  
 
+**Solution**
 the creation of on-chain fund raising "vending machines" will considerably reduce barriers, increase transparency , aggregate buyers and sellers and remove operational overheads to an IDO platform. Aswell as creating a market determined price for the public raise, the tools for which are described below. 
 - auction lottery
 - english auctions
