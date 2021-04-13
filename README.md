@@ -1,6 +1,6 @@
 # Crowd-Launcher
 
-Any person anywhere in the world should be able to create an Eth address and issue tokens in return for a chosen form of tokenised contributions. without in-depth knowledge of codeing or blockchains. the enviroment between all parties should be trustless.  
+The barriers to raising capital for any person in the world, regardless of their situation in life is being eroded, any person is now able to create an Eth address and issue tokens in return for a chosen form of tokenised contributions. soon this process will be automated; opening capital markets to people without specialised blockchain knowledge. These new financial markets will continue to grow.. and barriers continue to be removed, 
 
 Launching tokens over uniswap has many issues; front running, order rematching , MEV and of course price slippage.the next evolution for decentralised launches has seen the rise in IDO platforms. ensuring the fair distribution of tokens at a fixed price for retail and giving incubator and social validation to both investors and projects.
 
