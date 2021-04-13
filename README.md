@@ -8,7 +8,7 @@ Launching tokens over uniswap has many issues; front running, order rematching ,
 
 Problem:
 Many of these IDO platforms share common inefficiencies..
-- fair market price for public sale is seeming is arbitrarily assigned. often projects raise far below market valuation.
+- fair market price for public sale are seemingly arbitrarily assigned. often projects raise far below market valuation.
 - confidential lottery draws with no verification
 - token distribution is limited to closed off VC channels 
 - the IDOs themselves are walled off communities and not aggregated
