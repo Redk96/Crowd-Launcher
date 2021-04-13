@@ -22,7 +22,8 @@ the creation of on-chain fund raising "vending machines" will considerably reduc
 - english auctions
 - dutch auctions
 - fixed rate swaps....
-^^ gives projects the freedom to select how they want to public raise. 
+
+^^ giving projects the freedom to select how they want to public raise. 
 (Private allocations will remain private or OTC) 
 
 As a consequence of removing barriers to launching a DAO there will be scams occuring. This is mainly due to the lack of gatekeepers and proffesional vetting. 
