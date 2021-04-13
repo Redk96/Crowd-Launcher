@@ -15,10 +15,10 @@ Many of these IDO platforms share common inefficiencies..
 - automation of raises is not available  
 
 the creation of on-chain fund raising "vending machines" will considerably reduce barriers, increase transparency , aggregate buyers and sellers and remove operational overheads to an IDO platform. Aswell as creating a market determined price for the public raise, the tools for which are described below. 
--auction lottery
--english auctions
--dutch auctions
--fixed rate swaps....
+- auction lottery
+- english auctions
+- dutch auctions
+- fixed rate swaps....
 ^^ gives projects the freedom to select how they want to public raise. 
 (Private allocations will remain private or OTC) 
 
