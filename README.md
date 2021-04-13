@@ -8,13 +8,13 @@ Launching tokens over uniswap has many issues; front running, order rematching ,
 
 Problem:
 Many of these IDO platforms share common inefficiencies..
-- fair market price for public sale is seeming is arbitrarily assigned. often projets raise far below market valuation.
+- fair market price for public sale is seeming is arbitrarily assigned. often projects raise far below market valuation.
 - confidential lottery draws with no verification
 - token distribution is limited to closed off VC channels 
 - the IDOs themselves are walled off communities and not aggregated
 - automation of raises is not available  
 
-the creation of on-cahin fund raising vending mahines raises will considerably reduce barriers, increase transparency , aggregate buyers and sellers and remove operational overheads to an IDO platform. Aswell as creating a market determined price for the public raise, the tools for which are described below. 
+the creation of on-cahin fund raising "vending machines" will considerably reduce barriers, increase transparency , aggregate buyers and sellers and remove operational overheads to an IDO platform. Aswell as creating a market determined price for the public raise, the tools for which are described below. 
 auction lottery
 english auctions
 dutch auctions
