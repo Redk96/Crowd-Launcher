@@ -3,7 +3,7 @@
 The barriers to raising capital for any person in the world, regardless of their situation in life is being eroded. Anyone with internet accesss is able to create an Eth address and issue tokens in return for tokenised contributions.
 soon this process will be fully automated; opening capital markets to people without specialised blockchain knowledge. These new financial markets will continue to grow.. as barriers continue to be removed. 
 
-Launching tokens over uniswap has many issues; front running, order rematching , MEV and of course price slippage.the next evolution for decentralised launches has seen the rise in IDO platforms; ensuring the fair distribution of tokens at a fixed price for retail and providing a type of centralised "quality control" over launches
+Launching tokens over uniswap has many issues; front running, order rematching , MEV and ofcourse price slippage.the next evolution for decentralised launches has seen the rise in IDO platforms; ensuring the fair distribution of tokens at a fixed price for retail and providing a type of centralised "quality control" over launches
 
 
 Problem:
